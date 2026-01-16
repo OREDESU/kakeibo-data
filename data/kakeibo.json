@@ -13,6 +13,20 @@
       "category": "食費",
       "item": "飯代",
       "amount": 700
+    },
+    {
+      "type": "expense",
+      "date": "2026-01-16",
+      "category": "食費",
+      "item": "ラーメン",
+      "amount": 440
+    },
+    {
+      "type": "expense",
+      "date": "2026-01-16",
+      "category": "日用品",
+      "item": "リップクリーム",
+      "amount": 605
     }
   ]
 }
