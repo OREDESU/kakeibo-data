@@ -27,6 +27,20 @@
       "category": "日用品",
       "item": "リップクリーム",
       "amount": 605
+    },
+    {
+      "type": "expense",
+      "date": "2026-01-17",
+      "category": "娯楽",
+      "item": "カラオケ",
+      "amount": 840
+    },
+    {
+      "type": "expense",
+      "date": "2026-01-17",
+      "category": "趣味",
+      "item": "ピックキーホルダー",
+      "amount": 610
     }
   ]
 }
