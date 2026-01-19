@@ -41,6 +41,20 @@
       "category": "趣味",
       "item": "ピックキーホルダー",
       "amount": 610
+    },
+    {
+      "type": "income",
+      "date": "2026-01-19",
+      "category": "食費",
+      "item": "飯代",
+      "amount": 500
+    },
+    {
+      "type": "income",
+      "date": "2026-01-19",
+      "category": "お小遣い",
+      "item": "交通",
+      "amount": 40
     }
   ]
 }
