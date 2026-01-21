@@ -69,6 +69,13 @@
       "category": "食費",
       "item": "飯代",
       "amount": 700
+    },
+    {
+      "type": "expense",
+      "date": "2026-01-20",
+      "category": "食費",
+      "item": "飯代",
+      "amount": 246
     }
   ]
 }
