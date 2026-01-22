@@ -76,6 +76,20 @@
       "category": "食費",
       "item": "飯代",
       "amount": 246
+    },
+    {
+      "type": "expense",
+      "date": "2026-01-22",
+      "category": "日用品",
+      "item": "無線イヤホン",
+      "amount": 1100
+    },
+    {
+      "type": "income",
+      "date": "2026-01-23",
+      "category": "食費",
+      "item": "飯代",
+      "amount": 700
     }
   ]
 }
