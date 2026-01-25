@@ -90,6 +90,48 @@
       "category": "食費",
       "item": "飯代",
       "amount": 700
+    },
+    {
+      "type": "expense",
+      "date": "2026-01-23",
+      "category": "娯楽",
+      "item": "カラオケ",
+      "amount": 730
+    },
+    {
+      "type": "income",
+      "date": "2026-01-25",
+      "category": "その他",
+      "item": "交通費",
+      "amount": 1000
+    },
+    {
+      "type": "expense",
+      "date": "2026-01-25",
+      "category": "娯楽",
+      "item": "プリクラ",
+      "amount": 500
+    },
+    {
+      "type": "expense",
+      "date": "2026-01-25",
+      "category": "娯楽",
+      "item": "メダルゲーム",
+      "amount": 200
+    },
+    {
+      "type": "expense",
+      "date": "2026-01-25",
+      "category": "日用品",
+      "item": "イヤリング・イヤカフ",
+      "amount": 990
+    },
+    {
+      "type": "expense",
+      "date": "2026-01-25",
+      "category": "その他",
+      "item": "忘れた",
+      "amount": 230
     }
   ]
 }
