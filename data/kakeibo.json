@@ -132,6 +132,41 @@
       "category": "その他",
       "item": "忘れた",
       "amount": 230
+    },
+    {
+      "type": "income",
+      "date": "2026-01-26",
+      "category": "食費",
+      "item": "飯代",
+      "amount": 700
+    },
+    {
+      "type": "income",
+      "date": "2026-01-27",
+      "category": "食費",
+      "item": "飯代",
+      "amount": 700
+    },
+    {
+      "type": "expense",
+      "date": "2026-01-27",
+      "category": "日用品",
+      "item": "イヤリング",
+      "amount": 550
+    },
+    {
+      "type": "income",
+      "date": "2026-01-27",
+      "category": "その他",
+      "item": "",
+      "amount": 1
+    },
+    {
+      "type": "expense",
+      "date": "2026-01-28",
+      "category": "娯楽",
+      "item": "カラオケ",
+      "amount": 380
     }
   ]
 }
