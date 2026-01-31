@@ -167,6 +167,27 @@
       "category": "娯楽",
       "item": "カラオケ",
       "amount": 380
+    },
+    {
+      "type": "income",
+      "date": "2026-01-30",
+      "category": "食費",
+      "item": "飯代",
+      "amount": 700
+    },
+    {
+      "type": "expense",
+      "date": "2026-01-30",
+      "category": "食費",
+      "item": "飯代",
+      "amount": 500
+    },
+    {
+      "type": "expense",
+      "date": "2026-01-30",
+      "category": "食費",
+      "item": "大福",
+      "amount": 162
     }
   ]
 }
