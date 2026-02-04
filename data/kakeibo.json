@@ -204,6 +204,20 @@
       "category": "食費",
       "item": "飯代",
       "amount": 393
+    },
+    {
+      "type": "income",
+      "date": "2026-02-03",
+      "category": "給料",
+      "item": "飯代",
+      "amount": 650
+    },
+    {
+      "type": "expense",
+      "date": "2026-02-03",
+      "category": "食費",
+      "item": "飯代",
+      "amount": 454
     }
   ]
 }
